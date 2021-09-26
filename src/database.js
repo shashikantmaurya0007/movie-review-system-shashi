@@ -39,6 +39,12 @@ const generes = {
       rating: "6.6/10",
       description:
         "Bheeshma is a young bachelor who is desperate to find a girlfriend. One day, he meets and falls in love with Chaitra, who works for an organics company that coincidentally carries his first name."
+    },
+    {
+      name: "An Unfinished Life",
+      rating: "7/10",
+      description:
+        "Desperate to provide care for her daughter, down-on-her-luck Jean moves in with her father in-law from whom she is estranged. Through time, they learn to forgive each other and heal old wounds."
     }
   ]
 };
