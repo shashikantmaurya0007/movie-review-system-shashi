@@ -8,9 +8,15 @@ const generes = {
     },
     {
       name: "Puss in Boots (2011)",
-      rating: "6.6/10 ",
+      rating: "/10 ",
       description:
         "An outlaw cat, his childhood egg-friend and a seductive thief kitty set out in search for the eggs of the fabled Golden Goose to clear his name, restore his lost honor and regain the trust of his mother and town"
+    },
+    {
+      name: "An Unfinished Life",
+      rating: "6.6/10 ",
+      description:
+        "Desperate to provide care for her daughter, down-on-her-luck Jean moves in with her father in-law from whom she is estranged. Through time, they learn to forgive each other and heal old wounds."
     }
   ],
   Horror: [
@@ -25,6 +31,12 @@ const generes = {
       rating: "7.3/10",
       description:
         "Years following the events of The Shining (1980), a now-adult Dan Torrance must protect a young girl with similar powers from a cult known as The True Knot, who prey on children with powers to remain immortal."
+    },
+    {
+      name: "Last Night in Soho",
+      rating: "7.4/10",
+      description:
+        "An aspiring fashion designer is mysteriously able to enter the 1960s where she encounters a dazzling wannabe singer. But the glamour is not all it appears to be and the dreams of the past start to crack and splinter into something darker."
     }
   ],
   Romantic: [
